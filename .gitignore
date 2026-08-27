@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+rb5/data/ft_*.csv
+!rb5/data/ft_20260827_134834.csv
+!rb5/data/ft_20260827_134834_final.csv
